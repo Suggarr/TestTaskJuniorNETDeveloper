@@ -11,10 +11,12 @@ class Program
         const int numMax = 100000000;
         const string latinChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
         const string russiaChars = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя";
+        const string connectionString = "Data Source=localhost;Initial Catalog=testingDb;Integrated Security=True;";
 
         IRandomDataGenerator randomDataGenerator = new RandomDataGenerator(new Random());
         IFileGenerator fileGenerator = new FileGenerator(randomDataGenerator, latinChars, russiaChars);
         IFileMerger fileMerger = new FileMerger();
+        IDataBaseImporter dataBaseImporter = new DataBaseImporter(connectionString);
 
         fileGenerator.GenerateFiles(numFiles, linesPerFile, numMin, numMax);
 
@@ -25,5 +27,7 @@ class Program
         string outputFile = Console.ReadLine() + ".txt";
 
         fileMerger.MergeFiles(numFiles, deleteString, outputFile);
+
+        dataBaseImporter.ImportFilesToDatabase(numFiles, numFiles*linesPerFile);
     }
 }

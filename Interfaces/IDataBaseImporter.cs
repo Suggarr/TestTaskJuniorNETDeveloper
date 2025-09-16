@@ -2,6 +2,6 @@
 {
     public interface IDataBaseImporter
     {
-        void ImportFilesToDatabase(int numFiles);
+        void ImportFilesToDatabase(int numFiles, int totalLines);
     }
 }
