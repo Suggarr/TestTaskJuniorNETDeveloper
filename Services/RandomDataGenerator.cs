@@ -7,10 +7,10 @@ using TestTaskJuniorNETDeveloper.Interfaces;
 
 namespace TestTaskJuniorNETDeveloper.Services
 {
-    public class RandomDataGeneratorcs : IRandomDataGeneratorcs
+    public class RandomDataGenerator : IRandomDataGenerator
     {
         private readonly Random _random;
-        public RandomDataGeneratorcs(Random random)
+        public RandomDataGenerator(Random random)
         {
             _random = random;
         }

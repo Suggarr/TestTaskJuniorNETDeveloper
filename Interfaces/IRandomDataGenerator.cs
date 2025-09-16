@@ -1,6 +1,6 @@
 ﻿namespace TestTaskJuniorNETDeveloper.Interfaces
 {
-    public interface IRandomDataGeneratorcs
+    public interface IRandomDataGenerator
     {
         string RandomChars(string chars, int length);
         DateOnly RandomDay();
