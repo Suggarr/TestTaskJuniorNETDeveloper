@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\services\\databaseimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:services\\databaseimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\services\\filemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:services\\filemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\services\\filegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:services\\filegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\services\\randomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:services\\randomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\interfaces\\ifilegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:interfaces\\ifilegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\interfaces\\ifilemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:interfaces\\ifilemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\interfaces\\idatabaseimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:interfaces\\idatabaseimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\testtaskjuniornetdeveloper\\interfaces\\irandomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3733E9C2-4C84-4BBC-8709-C8B1C663419E}|TestTaskJuniorNETDeveloper.csproj|solutionrelative:interfaces\\irandomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileMerger.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IFileMerger.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileMerger.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IFileMerger.cs",
+              "RelativeToolTip": "Interfaces\\IFileMerger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:28:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRandomDataGenerator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IRandomDataGenerator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRandomDataGenerator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IRandomDataGenerator.cs",
+              "RelativeToolTip": "Interfaces\\IRandomDataGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:28:26.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseImporter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\DataBaseImporter.cs",
+              "RelativeDocumentMoniker": "Services\\DataBaseImporter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\DataBaseImporter.cs",
+              "RelativeToolTip": "Services\\DataBaseImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:54:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileMerger.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\FileMerger.cs",
+              "RelativeDocumentMoniker": "Services\\FileMerger.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\FileMerger.cs",
+              "RelativeToolTip": "Services\\FileMerger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:39:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileGenerator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IFileGenerator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileGenerator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IFileGenerator.cs",
+              "RelativeToolTip": "Interfaces\\IFileGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:39.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileGenerator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\FileGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\FileGenerator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\FileGenerator.cs",
+              "RelativeToolTip": "Services\\FileGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:29:51.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomDataGenerator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\RandomDataGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\RandomDataGenerator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Services\\RandomDataGenerator.cs",
+              "RelativeToolTip": "Services\\RandomDataGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:15:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:50:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataBaseImporter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IDataBaseImporter.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDataBaseImporter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\TestTaskJuniorNETDeveloper\\Interfaces\\IDataBaseImporter.cs",
+              "RelativeToolTip": "Interfaces\\IDataBaseImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:53:04.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
